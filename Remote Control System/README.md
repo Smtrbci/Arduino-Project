@@ -1,3 +1,3 @@
 # Remote_Control_System
 
-![Colorful Rain](https://media4.giphy.com/media/Z0DR1MDa6308kH8kYI/giphy.gif?cid=790b76118e4982f900592f318b3d8a3959e8d79d94182d52&rid=giphy.gif)
+![Colorful Rain](https://media1.giphy.com/media/bQ6IvEIsmNHkDZVDhQ/giphy.gif?cid=790b76117ca90d6da2f5b5709bf9dc198987e280c1c49184&rid=giphy.gif)
